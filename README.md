@@ -1,23 +1,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&weight=700&size=25&letterSpacing=1pt&pause=1000&color=F7DA12&width=500&height=40&lines=NICCOL%C3%81S+PARRA;Mechatronics+Engineering+Student" alt="Typing SVG" /></a>
 
-<div align="left">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niccolasparra)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/niccolasparra)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@niccolasparra)
 
-</div>
 
----
 
-## **About Me** 👨‍💻
+### **About Me** 👨‍💻
 
 **🎓 Student** at Universidad Nacional de Colombia  
 **🇰🇷 Exchange** at Korea University  
 **🤖 Specialized in** Automation, Control Systems & Robotics  
 **🎨 Passionate about** Technology, Leadership & Innovation
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## **Tech Stack** 💻
 
