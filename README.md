@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niccolasparra)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/niccolasparra)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@niccolasparra)
-
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:contact@niccolasparra.com)
 
 
 ### **About Me** 👨‍💻
@@ -112,8 +112,14 @@
 
 ---
 
-*"Innovation distinguishes between a leader and a follower."* - **Steve Jobs**
-
 **Always open to collaborate on innovative projects!** ✨
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+**💡 "The progress and development of man are of immeasurable importance for humanity and are essentially dependent on invention."** - *Nikola Tesla*
+
+**🤖 "Robotics and other combinations will make the world pretty fantastic compared with today."** - *Bill Gates*
 
 </div>
