@@ -80,10 +80,7 @@
 
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niccolasparra&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_color=FFD700&title_color=FFD700&icon_color=FFD700"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolasparra&layout=compact&langs_count=8&theme=react&border_color=FFD900&title_color=FFD700"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niccolasparra&theme=react&border=FFD700&ring=FFD700&fire=FFD700&sideNums=FFD700" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolasparra&layout=compact&langs_count=8&theme=react&border_color=FFD500&title_color=FFD700"/>
 
 </div>
 
