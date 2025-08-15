@@ -39,6 +39,7 @@
 ![ROS2](https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat-square&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=Arduino&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-%234285F4.svg?style=flat-square&logo=intel&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8.svg?style=flat-square&logo=mathworks&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -60,12 +61,17 @@
 ### **🏠 Real Estate ML Analytics**
 **Advanced property prediction** using machine learning algorithms for comprehensive market analysis.
 
-**🔧 Tech:** ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/ML-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+**🔧 ML:** ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/ML-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### **💰 Intelligent Financial System**
 **Automated financial management** with Azure integration, WhatsApp notifications, and Notion database organization.
 
-**🔧 Tech:** ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+**🔧 Software:** ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+
+### **🤖 Cart-Pole System: Mathematical Modeling & Control**
+**comprehensive mathematical analysis of the Cart-Pole System (inverted pendulum on a cart) ** using Lagrangian Mechanics providing foundation for control system design and simulation.
+
+**🔧 Robotics & Control:** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=flat-square&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8.svg?style=flat-square&logo=mathworks&logoColor=white)
 
 ### **🎮 FPGA Logic Game**
 **Missionaries & Cannibals** implementation on FPGA with optimized digital electronics design.
