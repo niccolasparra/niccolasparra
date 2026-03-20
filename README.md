@@ -1,128 +1,60 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&weight=700&size=25&letterSpacing=1pt&pause=1000&color=F7DA12&width=500&height=40&lines=NICCOL%C3%81S+PARRA;Mechatronics+Engineering+Student" alt="Typing SVG" /></a>
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niccolasparra)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/niccolasparra)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@niccolasparra)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:contact@niccolasparra.com)
-
-
-### **About Me** 👨‍💻
-
-**🎓 Student** at Universidad Nacional de Colombia  
-**🇰🇷 Exchange** at Korea University  
-**🤖 Specialized in** Automation, Control Systems & Robotics  
-**🎨 Passionate about** Technology, Leadership & Innovation
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <a href="mailto:contact@niccolasparra.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/niccolasparra"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@niccolasparra"><img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://niccolasparra.com"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </div>
 
-## **Tech Stack** 💻
+<br/>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<h1 align="center">Niccolás Parra</h1>
 
-### **Programming**
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=flat-square&logo=mathworks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+<h4 align="center">Mechatronics Engineer | Founder @ Double C Labs | CTO @ YAYA Creative Studio</h4>
 
-</td>
-<td valign="top" width="33%">
-
-### **Robotics & Automation**
-![ROS](https://img.shields.io/badge/ROS-%2322314E.svg?style=flat-square&logo=ROS&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat-square&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=Arduino&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-%234285F4.svg?style=flat-square&logo=intel&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8.svg?style=flat-square&logo=mathworks&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### **AI & Engineering**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23FF8C00.svg?style=flat-square&logo=autodesk&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  Building at the intersection of hardware intelligence, control systems, and data-driven software automation.
+</p>
 
 ---
 
-## **Featured Projects** 🚀
+### About me
 
-### **🏠 Real Estate ML Analytics**
-**Advanced property prediction** using machine learning algorithms for comprehensive market analysis.
+I am a mechatronics engineer and technology leader focused on architecting scalable, high-impact solutions. My core objective is bridging the gap between complex physical systems and intelligent software to solve real-world challenges, utilizing advanced automation, Big Data analytics, and Machine Learning.
 
-**🔧 ML:** ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/ML-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+* **B.S. Mechatronics Engineering** @ National University of Colombia.
+* **Former Research Exchange** @ Korea University (Sejong & Seoul Campus) — Intelligent Robotics Lab.
 
-### **💰 Intelligent Financial System**
-**Automated financial management** with Azure integration, WhatsApp notifications, and Notion database organization.
+### Leadership & Initiatives
 
-**🔧 Software:** ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+* **Double C Labs:** Founder. Developing technological and automation solutions tailored for scalable impact.
+* **YAYA Creative Studio:** CTO. Directing the strategic implementation of tech solutions and product design within a creatively driven business environment.
 
-### **🤖 Cart-Pole System: Mathematical Modeling & Control**
-**comprehensive mathematical analysis of the Cart-Pole System (inverted pendulum on a cart) ** using Lagrangian Mechanics providing foundation for control system design and simulation.
+### What I Work On
 
-**🔧 Robotics & Control:** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=flat-square&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8.svg?style=flat-square&logo=mathworks&logoColor=white)
+* **Autonomous Navigation** — SLAM, trajectory planning, ROS2, mobile robotics.
+* **Control Systems** — Servomechanism design, dynamic modeling, MATLAB/Simulink, sensor/actuator integration.
+* **Big Data & AI** — Scalable Python analytics, NLP (Natural Language Processing) for semantic understanding, predictive modeling, and data engineering.
+* **Biomechatronics** — Assistive devices, additive manufacturing, custom mechanics, and human-centered design.
+* **Edge AI & Hardware** — Deployment on NVIDIA Jetson architectures, embedded systems, and NAS infrastructure.
+* **Aerospace** — Satellite subsystem simulation, hardware-software integration (KUNTUR Project).
 
-### **🎮 FPGA Logic Game**
-**Missionaries & Cannibals** implementation on FPGA with optimized digital electronics design.
+### Selected Projects
 
-**🔧 Tech:** ![FPGA](https://img.shields.io/badge/FPGA-%234285F4.svg?style=flat-square&logo=intel&logoColor=white) ![Quartus](https://img.shields.io/badge/Quartus-%230071C5.svg?style=flat-square&logo=intel&logoColor=white)
+| Project | Description |
+|---|---|
+| **Semantic Category Search Engine** | Developing an Amazon-like product categorization and search engine using Big Data analytics, Python, and NLP to improve query relevance and inventory sorting. |
+| **Assistive Reach Device** | Inclusive 3D-printed tool for users with limited mobility. Iterative human-centered design incorporating direct user feedback and custom mechanics. |
+| **Autonomous Robot Navigation** | SLAM algorithms and trajectory planning for mobile robots. Built with ROS2, Python, C++. |
+| **Real Estate ML Analytics** | End-to-end Machine Learning pipeline for price prediction and market analysis. |
+| **KUNTUR Satellite** | Control systems design and dynamic simulations for a university satellite mission. |
+| **ORB-SLAM3 Docker** | Containerized environment for visual SLAM research and development. |
 
----
+### Technical Stack
 
-## **GitHub Analytics** 📊
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niccolasparra&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_color=FFD700&title_color=FFD700&icon_color=FFD700"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolasparra&layout=compact&langs_count=8&theme=react&border_color=FFD400&title_color=FFD900"/>
-
-</div>
-
----
-
-## **Professional Goals 2024-2025** 🎯
-
-| **Objective** | **Status** |
-|:---|:---:|
-| Complete Korea University exchange program | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-%23FFB347.svg?style=flat-square) |
-| Advanced robotics & automation projects | ![Active](https://img.shields.io/badge/Status-Active-%2344CC11.svg?style=flat-square) |
-| Graduate studies preparation | ![Planning](https://img.shields.io/badge/Status-Planning-%234FC3F7.svg?style=flat-square) |
-| Open source contributions | ![Active](https://img.shields.io/badge/Status-Active-%2344CC11.svg?style=flat-square) |
-| AI & Machine Learning mastery | ![Learning](https://img.shields.io/badge/Status-Learning-%23FF9800.svg?style=flat-square) |
-
----
-
-<div align="center">
-
-### **Let's Connect** 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niccolasparra)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niccolasparra)
-
-![Profile Views](https://komarev.com/ghpvc/?username=niccolasparra&color=FFD700&style=for-the-badge&label=Profile+Views)
-
----
-
-**Always open to collaborate on innovative projects!** ✨
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-**💡 "The progress and development of man are of immeasurable importance for humanity and are essentially dependent on invention."** - *Nikola Tesla*
-
-**🤖 "Robotics and other combinations will make the world pretty fantastic compared with today."** - *Bill Gates*
-
-</div>
+```text
+Robotics       ROS2 · SLAM · Lidar · Motion Planning · Servomechanisms
+Engineering    MATLAB/Simulink · Fusion 360 · AutoCAD · PCB Design · 3D Printing
+Software       Python (Core Stack) · C/C++ · SQL · Git
+Data & AI      Big Data Analytics · NLP · Scikit-learn · Pandas · Hugging Face · Tableau
+Hardware       NVIDIA Jetson Orin Nano · Microcontrollers · NAS Architectures
+Web            React · Tailwind CSS · HTML/CSS
