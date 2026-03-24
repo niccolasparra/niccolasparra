@@ -24,11 +24,11 @@
 Mechatronics engineer and technology leader focused on architecting scalable, high-impact solutions. My core objective is bridging the gap between complex physical systems and intelligent software to solve real-world challenges, utilizing advanced automation, Big Data analytics, and Machine Learning.
 
 * **B.S. Mechatronics Engineering** @ National University of Colombia *(Expected graduation: 2026)*
-* **Academic Research Exchange** @ Korea University (Seoul & Sejong) — Intelligent Systems & Robotics.
+* **Academic Research Exchange** @ Korea University (Seoul & Sejong) — AI, Intelligent Systems & Robotics.
 
 ### Leadership & Initiatives
 
-* **Double C Labs:** Founder. Developing technological and automation solutions tailored for scalable impact.
+* **Double C Labs:** Founder. Developing technological and automation solutions tailored for scalable impact in retail, healthcare, .
 * **YAYA Creative Studio:** CTO. Directing the strategic implementation of tech solutions and product design within a creatively driven business environment.
 
 ### What I Work On
