@@ -9,7 +9,9 @@
 
 <h1 align="center">Niccolás Parra</h1>
 
-<h4 align="center">Mechatronics Engineer | Founder @ Double C Labs | CTO @ YAYA Creative Studio</h4>
+<h4 align="center">Mechatronics Engineer | Founder @ Double C Labs 
+
+<p align="center">🇨🇴 Bogotá, Colombia — Open to remote collaboration & international opportunities</p>
 
 <p align="center">
   Building at the intersection of hardware intelligence, control systems, and data-driven software automation.
@@ -19,10 +21,10 @@
 
 ### About me
 
-I am a mechatronics engineer and technology leader focused on architecting scalable, high-impact solutions. My core objective is bridging the gap between complex physical systems and intelligent software to solve real-world challenges, utilizing advanced automation, Big Data analytics, and Machine Learning.
+Mechatronics engineer and technology leader focused on architecting scalable, high-impact solutions. My core objective is bridging the gap between complex physical systems and intelligent software to solve real-world challenges, utilizing advanced automation, Big Data analytics, and Machine Learning.
 
-* **B.S. Mechatronics Engineering** @ National University of Colombia.
-* **Former Research Exchange** @ Korea University (Sejong & Seoul Campus) — Intelligent Robotics Lab.
+* **B.S. Mechatronics Engineering** @ National University of Colombia *(Expected graduation: 2026)*
+* **Academic Research Exchange** @ Korea University (Seoul & Sejong) — Intelligent Systems & Robotics.
 
 ### Leadership & Initiatives
 
@@ -42,10 +44,10 @@ I am a mechatronics engineer and technology leader focused on architecting scala
 
 | Project | Description |
 |---|---|
-| **Semantic Category Search Engine** | Developing an Amazon-like product categorization and search engine using Big Data analytics, Python, and NLP to improve query relevance and inventory sorting. |
+| [**Semantic Category Search Engine**](https://github.com/niccolasparra/HierarchicalMulti-LabelTextClassification) | Developing an Amazon-like product categorization and search engine using Big Data analytics, Python, and NLP to improve query relevance and inventory sorting. |
 | **Assistive Reach Device** | Inclusive 3D-printed tool for users with limited mobility. Iterative human-centered design incorporating direct user feedback and custom mechanics. |
-| **Autonomous Robot Navigation** | SLAM algorithms and trajectory planning for mobile robots. Built with ROS2, Python, C++. |
-| **Real Estate ML Analytics** | End-to-end Machine Learning pipeline for price prediction and market analysis. |
+| [**Autonomous Robot Navigation**](https://github.com/niccolasparra/UR5-Reinforcement-Learning) | SLAM algorithms and trajectory planning for mobile robots. Built with ROS2, Python, C++. |
+| [**Real Estate ML Analytics**](https://github.com/niccolasparra/HousePredictionML) | End-to-end Machine Learning pipeline for price prediction and market analysis. |
 | **KUNTUR Satellite** | Control systems design and dynamic simulations for a university satellite mission. |
 | **ORB-SLAM3 Docker** | Containerized environment for visual SLAM research and development. |
 
@@ -58,3 +60,11 @@ Software       Python (Core Stack) · C/C++ · SQL · Git
 Data & AI      Big Data Analytics · NLP · Scikit-learn · Pandas · Hugging Face · Tableau
 Hardware       NVIDIA Jetson Orin Nano · Microcontrollers · NAS Architectures
 Web            React · Tailwind CSS · HTML/CSS
+```
+---
+### My Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niccolasparra&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolasparra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=dark&hide_border=true&background=0d1117" height="150" />
+</div>
